@@ -1,10 +1,12 @@
 # TSN_DEMO_04_EBook
 Электронная книга
 
-![Screenshot](screenshot1.png)
+![Screenshot](1.png)
 
-![Screenshot](screenshot2.png)
-
+![Screenshot](2.png)
+![Screenshot](3.png)
+![Screenshot](4.png)
+![Screenshot](5.png)
 https://www.youtube.com/watch?v=LGl9R8_IgNU
 
 Прокрутка WebView клавишами громкости:
