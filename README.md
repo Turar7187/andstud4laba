@@ -1,4 +1,4 @@
-# TSN_DEMO_04_EBook
+# MTOandstud4laba
 Электронная книга
 
 ![Screenshot](1.png)
